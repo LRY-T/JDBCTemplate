@@ -26,3 +26,5 @@ pojo文件为变量声明类文件
 UI文件为前端JavaSwing代码类文件
 
 使用者使用com.shop.UI.Tool文件下的MainFrm运行项目
+
+该项目使用JDK8
